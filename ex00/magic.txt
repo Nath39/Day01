@@ -1,0 +1,4 @@
+$ sed -i".bak" '11d' deposition_Joe_Rugiani.txt
+
+$ vim deposition_Joe_Rugiani.txt
+
