@@ -1,0 +1,155 @@
+12249-Color: Orange
+12263-Owner: Bruno Oliver
+12283-Height: 6'4"
+12296-Weight: 238 lbs
+12312-
+12313:License Plate L337ZR9
+12335-Make: Honda
+12347-Color: Red
+12358-Owner: Katie Park
+12376-Height: 6'2"
+12389-Weight: 189 lbs
+--
+30654-Color: Orange
+30668-Owner: Deni Iovu
+30685-Height: 5'0"
+30698-Weight: 150 lbs
+30714-
+30715:License Plate L337P89
+30737-Make: Honda
+30749-Color: Teal
+30761-Owner: Mike Bostock
+30781-Height: 6'4"
+30794-Weight: 173 lbs
+--
+77104-Color: Orange
+77118-Owner: Yasemin Voronova
+77142-Height: 5'4"
+77155-Weight: 164 lbs
+77171-
+77172:License Plate L337GX9
+77194-Make: Mazda
+77206-Color: Orange
+77220-Owner: John Keefe
+77238-Height: 6'4"
+77251-Weight: 185 lbs
+--
+101361-Color: Red
+101372-Owner: Yunlei Xu
+101389-Height: 5'0"
+101402-Weight: 214 lbs
+101418-
+101419:License Plate L337QE9
+101441-Make: Honda
+101453-Color: Blue
+101465-Owner: Erika Owens
+101484-Height: 6'5"
+101497-Weight: 220 lbs
+--
+191915-Color: Blue
+191927-Owner: Dieter Schooling
+191951-Height: 6'2"
+191964-Weight: 226 lbs
+191980-
+191981:License Plate L337GB9
+192003-Make: Toyota
+192016-Color: Blue
+192028-Owner: Matt Waite
+192046-Height: 6'1"
+192059-Weight: 190 lbs
+--
+193184-Color: Yellow
+193198-Owner: Agnieszka Skhirtladze
+193227-Height: 5'4"
+193240-Weight: 240 lbs
+193256-
+193257:License Plate L337OI9
+193279-Make: Jaguar
+193292-Color: Blue
+193304-Owner: Brian Boyer
+193323-Height: 6'6"
+193336-Weight: 201 lbs
+--
+225288-Color: White
+225301-Owner: Rosie Fredricson
+225325-Height: 6'0"
+225338-Weight: 175 lbs
+225354-
+225355:License Plate L337X19
+225377-Make: Fiat
+225388-Color: Blue
+225400-Owner: Al Shaw
+225415-Height: 6'5"
+225428-Weight: 240 lbs
+--
+251140-Color: Red
+251151-Owner: Mohamed Onuora
+251173-Height: 5'8"
+251186-Weight: 181 lbs
+251202-
+251203:License Plate L337539
+251225-Make: Honda
+251237-Color: Blue
+251249-Owner: Aron Pilhofer
+251270-Height: 5'3"
+251283-Weight: 198 lbs
+--
+312637-Color: Pink
+312649-Owner: Maksim Acuff
+312669-Height: 5'5"
+312682-Weight: 143 lbs
+312698-
+312699:License Plate L3373U9
+312721-Make: Ford
+312732-Color: Blue
+312744-Owner: Miranda Mulligan
+312768-Height: 6'6"
+312781-Weight: 156 lbs
+--
+337287-Color: Silver
+337301-Owner: Flor Magnini
+337321-Height: 5'2"
+337334-Weight: 239 lbs
+337350-
+337351:License Plate L337369
+337373-Make: Honda
+337385-Color: Blue
+337397-Owner: Heather Billings
+337421-Height: 5'2"
+337434-Weight: 244 lbs
+--
+351529-Color: Green
+351542-Owner: Robyn Sigmond
+351563-Height: 6'3"
+351576-Weight: 137 lbs
+351592-
+351593:License Plate L337DV9
+351615-Make: Honda
+351627-Color: Blue
+351639-Owner: Joe Germuska
+351659-Height: 6'2"
+351672-Weight: 164 lbs
+--
+450420-Color: Green
+450433-Owner: Bridgitte Bale
+450455-Height: 5'11"
+450469-Weight: 176 lbs
+450485-
+450486:License Plate L3375A9
+450508-Make: Honda
+450520-Color: Blue
+450532-Owner: Jeremy Bowers
+450553-Height: 6'1"
+450566-Weight: 204 lbs
+--
+485600-Color: Black
+485613-Owner: Joseph Last
+485632-Height: 6'1"
+485645-Weight: 224 lbs
+485661-
+485662:License Plate L337WR9
+485684-Make: Honda
+485696-Color: Blue
+485708-Owner: Jacqui Maher
+485728-Height: 6'2"
+485741-Weight: 130 lbs
